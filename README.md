@@ -1,7 +1,7 @@
 # HotText_App
 Automate statements with hotkeys.
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/_-LQSWn7z58/0.jpg)](https://youtu.be/_-LQSWn7z58)
+[![VIDEO HERE](https://youtu.be/_-LQSWn7z58)
 
 ## HotKeys
 As it is coded now you have to hit the corresponding number with a '.' to activate the statements. Example: `3.`
