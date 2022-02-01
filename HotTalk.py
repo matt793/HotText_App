@@ -45,5 +45,6 @@ while True:
 
     # App cashe location.
     keyboard.add_hotkey('ctrl+shift+3', lambda: keyboard.write(statements['3p']))
-
+    
+    # Must have line to make listener work.
     keyboard.wait('Esc')
