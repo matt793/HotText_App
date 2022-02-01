@@ -25,17 +25,31 @@ There seems to be a wider spread problem with this issue. Your ticket will now b
     '5':"""
 Hello,
 
-I will be excalating your ticket to your local I.T. district office, because this issue may need inperson, and a hands on hardware solution. They should be getting a hold of you shortly.""", 
+I will be escalating your ticket to your local I.T. district office, because this issue may need in-person, and a hands-on hardware solution. They should be getting a hold of you shortly.""", 
 # 5 is the send to local I.T.
 
+    '6':"""
+I have reached out to the user on Teams.""",
+# 6 is the post Teams reply.
+
+
+#########################################################
+# Separator ----------------/---------------- Separator #                                               
+#########################################################
 
 
 # Porgrams from HotKeys:
 
     '1p':"""
-runas /user:matta cleanmgr.exe""", # Admin DiskClean.
+runas /user:matta cleanmgr.exe""", 
+# Admin DiskClean.
 
     '2p':"""
-runas /user:matta powershell.exe""", # Admin PowerShell.
+runas /user:matta powershell.exe""", 
+# Admin PowerShell.
+
+    '3p':"""
+%AppData%""",
+# App cashe location.
 
 }
