@@ -17,6 +17,15 @@ while True:
     # 5 is the send to local I.T.
     keyboard.add_hotkey('ctrl+5', lambda: keyboard.write(statements['5']))
 
+    # 6 is the post Teams reply.
+    keyboard.add_hotkey('ctrl+6', lambda: keyboard.write(statements['6']))
+
+
+#########################################################
+# Separator ----------------/---------------- Separator #                                               
+#########################################################
+    
+    
     #Programs from HotKeys
 
     # Admin DiskClean.
@@ -25,5 +34,7 @@ while True:
     # Admin PowerShell.
     keyboard.add_hotkey('ctrl+shift+2', lambda: keyboard.write(statements['2p']))
 
+    # App cashe location.
+    keyboard.add_hotkey('ctrl+shift+3', lambda: keyboard.write(statements['3p']))
+
     keyboard.wait('Esc')
-    
