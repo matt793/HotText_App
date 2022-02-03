@@ -19,4 +19,5 @@ PreText.py is the dictionary file for the main script file HotTalk.py, make sure
 ## Install/Run Instrustions
 Dowload a zip folder from the Code button.
 
-(A video will be placed here soon)
+Here is a video tutorial on how to install, and get the appcation going: 
+[![IMAGE ALT TEXT HERE](https://youtu.be/8U7rk1BczG0/0.jpg)](https://youtu.be/8U7rk1BczG0)
