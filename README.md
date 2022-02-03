@@ -7,7 +7,7 @@ As it is coded now you must hit the corresponding number with the hotkeys `ctrl+
 ![Example](HotKey2.PNG "Example")
 
 ## HotTalk
-HotTalk.py is the main script. The needed pip module to import to your computer is: `pip install keyboard`. Type this into Powershell after Python3 is installed.
+HotTalk.py is the main script. The needed pip module to import to your computer is: `pip install keyboard`. Type this into PowerShell after Python3 is installed.
 
 ![Example](Pip_Command.PNG "Example")
 
