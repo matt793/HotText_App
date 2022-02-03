@@ -12,4 +12,4 @@ HotTalk.py is the main script. The needed pip module to import to you computer i
 ![Example](Pip_Command.PNG "Example")
 
 ## PreText
-PreText.py is the dictionary file for the main script file HotTalk.
+PreText.py is the dictionary file for the main script file HotTalk.py, make sure the both stay in the same folder.
