@@ -2,7 +2,9 @@
 Automate statements with hotkeys.
 
 ## HotKeys
-As it is coded now you have to hit the corresponding number with a `ctrl+shift` to activate the statements. Example: `ctrl+shift+3`.
+As it is coded now you have to hit the corresponding number with a `ctrl+alt` to activate the statements. Example: `ctrl+alt+3`.
+
+![Example](HotKey2.PNG "Example")
 
 ## HotTalk
 HotTalk.py is the main script. The needed pip module to import to you computer is: `pip install keyboard`.
