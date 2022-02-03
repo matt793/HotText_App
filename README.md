@@ -1,5 +1,5 @@
 # HotText_App
-Automate statements with hotkeys.
+Automate statements, and commands with hotkeys.
 
 ## HotKeys
 As it is coded now you have to hit the corresponding number with a `ctrl+alt` to activate the statements. Example: `ctrl+alt+3`.
