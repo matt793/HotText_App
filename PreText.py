@@ -97,6 +97,19 @@ I have reached out to the user on Teams.
  User@henselphelps.com""",
 # 7 is just the signature.
 
+    '8':"""
+A Duo reactivation link was sent to your phone number. If you have any more issues let me know. 
+
+ Sincerely,
+
+ Matthew Lopez 
+ IT Technician - Tier 1 Help Desk
+ 970.397.8816 (O)
+ 970.397.8816 (M)
+
+ mlopez6@henselphelps.com""",
+# 8 Duo reactivation link.
+
 
 #########################################################
 # Separator ----------------/---------------- Separator #                                               
