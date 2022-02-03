@@ -28,6 +28,9 @@ while True:
 
     # 7 is just the signature.
     keyboard.add_hotkey('ctrl+alt+7', lambda: keyboard.write(statements['7']))
+    
+     # 8 Duo reactivation link.
+    keyboard.add_hotkey('ctrl+alt+8', lambda: keyboard.write(statements['8']))
 
 
 #########################################################
