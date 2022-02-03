@@ -1,5 +1,5 @@
 # HotText_App
-Automate statements, and commands with hotkeys.
+Automate statements, and commands with hotkeys. You will need to install Python3.9, the keyboard module, and VSCode. VsCode and Python3.9 can be installed form the Microsoft Store.
 
 ## HotKeys
 As it is coded now you have to hit the corresponding number with a `ctrl+alt` to activate the statements. Example: `ctrl+alt+3`.
