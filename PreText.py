@@ -1,3 +1,8 @@
+####################################################################
+# Created by Matthew Lopez - HotText App                           #
+# Email: mattappleid793@gmail.com                                  #
+####################################################################
+
 # Python Dictionary 
 
 statements = {'1': """
