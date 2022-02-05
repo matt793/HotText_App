@@ -4,50 +4,10 @@
 # Email: mattappleid793@gmail.com                                  #
 ####################################################################
 
-# Automates hotkeys
 import keyboard
-
-# Imports the python dictonary file for all the statments and commands
 from PreText import statements
 
-# Adds ability to import a non-python file
-import os
- 
-# Imports local password file. User must make '.hide1' file.
-file_path = ".hide1"
- 
-# Check if file is present
-if os.path.isfile(file_path):
-    
-    # Open text file in read mode
-    text_file = open(file_path, "r")
- 
-    # Read whole file to a string
-    data = text_file.read()
- 
-    # Close file
-    text_file.close()
-
-# Imports local password file. User must make '.hide2' file.
-file_path = ".hide2"
- 
-# Check if file is present
-if os.path.isfile(file_path):
-    
-    # Open text file in read mode
-    text_file = open(file_path, "r")
- 
-    # Read whole file to a string
-    data = text_file.read()
- 
-    # Close file
-    text_file.close()
-
-# loops the listener
 while True:
-
-    # Run statements from HotKeys
-
     # 1 is the Ticket Starter.
     keyboard.add_hotkey('ctrl+alt+1', lambda: keyboard.write(statements['1']))
 
@@ -78,7 +38,7 @@ while True:
 #########################################################
     
     
-    # Run programs from HotKeys
+    #Programs from HotKeys
 
     # Admin DiskClean.
     keyboard.add_hotkey('ctrl+shift+1', lambda: keyboard.write(statements['1p']))
@@ -88,9 +48,6 @@ while True:
 
     # App cashe location.
     keyboard.add_hotkey('ctrl+shift+3', lambda: keyboard.write(statements['3p']))
-
-    # Adds password to hotkey
-    keyboard.add_hotkey('ctrl+shift+4', lambda: keyboard.write(data))
     
-    # Must have code line to make listener work.
+    # Must have line to make listener work.
     keyboard.wait('Esc')
