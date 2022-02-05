@@ -107,12 +107,12 @@ A Duo reactivation link was sent to your phone number. If you have any more issu
 
  Sincerely,
 
- Matthew Lopez 
+ First Last names 
  IT Technician - Tier 1 Help Desk
- 970.397.8816 (O)
- 970.397.8816 (M)
+ 970.000.0000 (O)
+ 970.000.0000 (M)
 
- mlopez6@henselphelps.com""",
+ User@henselphelps.com""",
 # 8 Duo reactivation link.
 
 
