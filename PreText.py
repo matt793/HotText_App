@@ -147,7 +147,7 @@ Thanks for letting me know you are ready, I will be with you very shortly. I'm c
 # Separator ----------------/---------------- Separator #                                               
 #########################################################
 
-    # Responces made by Brad Blair
+# Responces made by Brad Blair
 
     '1b':"""
 I have requested a re-activation for your duo account. You should be receiving a couple text messages with instructions for getting DUO activated on your new device. Please let me know if you have any questions.
