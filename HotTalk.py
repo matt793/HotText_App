@@ -28,9 +28,32 @@ while True:
 
     # 7 is just the signature.
     keyboard.add_hotkey('ctrl+alt+7', lambda: keyboard.write(statements['7']))
-    
-     # 8 Duo reactivation link.
+
+    # 8 Duo reactivation link.
     keyboard.add_hotkey('ctrl+alt+8', lambda: keyboard.write(statements['8']))
+
+    # 9 closed due to inactivity.
+    keyboard.add_hotkey('ctrl+alt+9', lambda: keyboard.write(statements['9']))
+
+    # 10 ticket pause-er.
+    keyboard.add_hotkey('ctrl+alt+0+1', lambda: keyboard.write(statements['10']))
+
+
+#########################################################
+# Separator ----------------/---------------- Separator #                                               
+#########################################################
+
+    # Responces made by Brad Blair
+
+    # 1b Duo Reactivation.
+    keyboard.add_hotkey('ctrl+alt+F1', lambda: keyboard.write(statements['1b']))
+
+    # 2b DocuSign Access granted.
+    keyboard.add_hotkey('ctrl+alt+F2', lambda: keyboard.write(statements['2b']))
+
+    # 3b VDC/AutoDesk Licenses.
+    keyboard.add_hotkey('ctrl+alt+F3', lambda: keyboard.write(statements['3b']))
+
 
 
 #########################################################
@@ -48,6 +71,6 @@ while True:
 
     # App cashe location.
     keyboard.add_hotkey('ctrl+shift+3', lambda: keyboard.write(statements['3p']))
-    
-    # Must have line to make listener work.
+
+    # Needed for listener. 
     keyboard.wait('Esc')
