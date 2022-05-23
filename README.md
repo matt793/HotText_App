@@ -10,14 +10,14 @@ Here is a video tutorial on how to install, and get the application going:
 ## HotKeys 
 As it is coded now you must hit the corresponding number with the hotkeys `ctrl+alt` to activate the statements. Example: `ctrl+alt+2`.
 
-![Example](Screenshots/HotKey2.PNG "Example")
+![Example](Screenshots/HotKey2.PNG "Example!")
 
 ## HotTalk
 HotTalk.py is the main script. The needed pip module to import to your computer is: `pip install keyboard`. Type this into PowerShell after Python3 is installed.
 
-![Example](Screenshots/Pip_Command.PNG "Example")
+![Example](Screenshots/Pip_Command.PNG "Example!")
 
 ## PreText
 PreText.py is the dictionary file for the main script file HotTalk.py, make sure both stay in the same folder.
 
-![Example](Screenshots/Same.PNG "Example")
+![Example](Screenshots/Same.PNG "Example!")
